@@ -1,0 +1,22 @@
+{
+  "name": "FFCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of FFCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/anan131435/FFCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "anan131435": "hanzhifeng@sunlands.com"
+  },
+  "source": {
+    "git": "https://github.com/anan131435/FFCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFCategoryKit/Classes/**/*"
+}
